@@ -15,3 +15,5 @@ def test_my_sum2():
 
 def test_my_sum3():
     assert_equal(my_sum(1, 1), 2)
+
+# added comment
